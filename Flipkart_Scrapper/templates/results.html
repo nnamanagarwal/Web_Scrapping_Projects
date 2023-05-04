@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Flipkart</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+
+
+      <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+
+</head>
+
+<body>
+
+  <div class="table-users">
+   <div class="header">Flipkart Scrapper</div>
+
+   <table cellspacing="0">
+      <tr>
+         <th>Search Term</th>
+         <th>Name</th>
+         <th>Rating</th>
+         <th>Comment Heading</th>
+         <th width="290">Comments</th>
+      </tr>
+         {% for review in reviews %}
+      <tr>
+          <td>{{review['Search Term']}}</td>
+         <td>{{review['Name']}}</td>
+         <td>{{review['Rating']}}</td>
+         <td>{{review['CommentHead']}}</td>
+         <td>{{review['Comment']}} </td>
+       {% endfor %}
+   </table>
+</div>
+
+
+
+</body>
+
+</html>
