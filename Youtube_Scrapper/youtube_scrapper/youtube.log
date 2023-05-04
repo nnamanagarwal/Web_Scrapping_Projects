@@ -1,0 +1,102 @@
+2023-04-08 12:58:43,398, werkzeug,  * Debugger is active!
+2023-04-08 12:58:43,414, werkzeug,  * Debugger PIN: 116-497-420
+2023-04-08 12:58:50,066, root, Checking csv file
+2023-04-08 12:58:50,070, root, Saving data in mongoDB
+2023-04-08 12:58:50,551, werkzeug, 127.0.0.1 - - [08/Apr/2023 12:58:50] "POST /review HTTP/1.1" 200 -
+2023-04-08 12:58:50,624, werkzeug, 127.0.0.1 - - [08/Apr/2023 12:58:50] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2023-04-08 12:58:50,736, werkzeug, 127.0.0.1 - - [08/Apr/2023 12:58:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2023-04-08 13:00:39,465, werkzeug,  * Detected change in 'c:\\Users\\Arjun\\youtube scrapping\\application.py', reloading
+2023-04-08 13:00:43,941, werkzeug,  * Debugger is active!
+2023-04-08 13:00:43,941, werkzeug,  * Debugger PIN: 116-497-420
+2023-04-08 13:00:51,339, root, Name od the channel = lail
+2023-04-08 13:00:51,745, root, Checking csv file
+2023-04-08 13:00:51,751, root, Saving data in mongoDB
+2023-04-08 13:00:52,284, werkzeug, 127.0.0.1 - - [08/Apr/2023 13:00:52] "POST /review HTTP/1.1" 200 -
+2023-04-08 13:00:52,349, werkzeug, 127.0.0.1 - - [08/Apr/2023 13:00:52] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2023-04-08 13:00:52,476, werkzeug, 127.0.0.1 - - [08/Apr/2023 13:00:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2023-04-08 13:05:06,362, werkzeug, [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-04-08 13:05:06,362, werkzeug, [33mPress CTRL+C to quit[0m
+2023-04-08 13:05:06,369, werkzeug,  * Restarting with stat
+2023-04-08 13:05:09,912, werkzeug,  * Debugger is active!
+2023-04-08 13:05:09,922, werkzeug,  * Debugger PIN: 116-497-420
+2023-04-08 13:05:35,898, root, Name od the channel = lailaa
+2023-04-08 13:05:36,307, root, Checking csv file
+2023-04-08 13:05:36,312, root, Saving data in mongoDB
+2023-04-08 13:05:36,903, werkzeug, 127.0.0.1 - - [08/Apr/2023 13:05:36] "POST /review HTTP/1.1" 200 -
+2023-04-08 13:05:36,958, werkzeug, 127.0.0.1 - - [08/Apr/2023 13:05:36] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2023-04-08 13:05:36,971, werkzeug, 127.0.0.1 - - [08/Apr/2023 13:05:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2023-04-08 13:05:48,893, werkzeug,  * Detected change in 'c:\\Users\\Arjun\\youtube scrapping\\application.py', reloading
+2023-04-09 00:58:25,277, werkzeug, [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-04-09 00:58:25,296, werkzeug, [33mPress CTRL+C to quit[0m
+2023-04-09 00:58:25,319, werkzeug,  * Restarting with stat
+2023-04-09 00:58:27,218, werkzeug,  * Debugger is active!
+2023-04-09 00:58:27,240, werkzeug,  * Debugger PIN: 112-270-299
+2023-04-09 00:58:49,486, werkzeug, [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-04-09 00:58:49,487, werkzeug, [33mPress CTRL+C to quit[0m
+2023-04-09 00:58:49,492, werkzeug,  * Restarting with stat
+2023-04-09 00:58:51,483, werkzeug,  * Debugger is active!
+2023-04-09 00:58:51,487, werkzeug,  * Debugger PIN: 112-270-299
+2023-04-09 00:59:25,907, werkzeug, [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-04-09 00:59:25,908, werkzeug, [33mPress CTRL+C to quit[0m
+2023-04-09 00:59:25,912, werkzeug,  * Restarting with stat
+2023-04-09 00:59:27,810, werkzeug,  * Debugger is active!
+2023-04-09 00:59:27,814, werkzeug,  * Debugger PIN: 112-270-299
+2023-04-09 00:59:36,037, werkzeug,  * Detected change in 'c:\\Users\\Naman\\Test\\youtube_scrapper\\youtube_scrapper\\application.py', reloading
+2023-04-09 00:59:36,387, werkzeug,  * Restarting with stat
+2023-04-09 00:59:36,911, werkzeug,  * Detected change in 'c:\\Users\\Naman\\Test\\youtube_scrapper\\youtube_scrapper\\application.py', reloading
+2023-04-09 00:59:37,197, werkzeug,  * Restarting with stat
+2023-04-09 00:59:38,537, werkzeug,  * Debugger is active!
+2023-04-09 00:59:38,543, werkzeug,  * Debugger PIN: 112-270-299
+2023-04-09 00:59:39,358, werkzeug,  * Debugger is active!
+2023-04-09 00:59:39,362, werkzeug,  * Debugger PIN: 112-270-299
+2023-04-09 00:59:49,712, werkzeug,  * Detected change in 'c:\\Users\\Naman\\Test\\youtube_scrapper\\youtube_scrapper\\application.py', reloading
+2023-04-09 00:59:49,946, werkzeug,  * Restarting with stat
+2023-04-09 00:59:51,941, werkzeug,  * Debugger is active!
+2023-04-09 00:59:51,946, werkzeug,  * Debugger PIN: 112-270-299
+2023-04-09 01:00:02,075, werkzeug, 127.0.0.1 - - [09/Apr/2023 01:00:02] "GET / HTTP/1.1" 200 -
+2023-04-09 01:00:02,448, werkzeug, 127.0.0.1 - - [09/Apr/2023 01:00:02] "GET /static/css/main.css HTTP/1.1" 200 -
+2023-04-09 01:00:02,469, werkzeug, 127.0.0.1 - - [09/Apr/2023 01:00:02] "GET /static/css/style.css HTTP/1.1" 200 -
+2023-04-09 01:00:02,603, werkzeug, 127.0.0.1 - - [09/Apr/2023 01:00:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-04-09 01:00:08,903, root, Name of the channel = ulnaday
+2023-04-09 01:00:10,314, root, Checking csv file
+2023-04-09 01:00:10,317, root, Saving data in mongoDB
+2023-04-09 01:00:11,637, werkzeug, 127.0.0.1 - - [09/Apr/2023 01:00:11] "POST /review HTTP/1.1" 200 -
+2023-04-09 01:00:11,684, werkzeug, 127.0.0.1 - - [09/Apr/2023 01:00:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2023-04-09 01:00:11,702, werkzeug, 127.0.0.1 - - [09/Apr/2023 01:00:11] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2023-04-09 01:02:21,593, root, Name of the channel = ulnaday
+2023-04-09 01:02:22,041, root, Checking csv file
+2023-04-09 01:02:22,045, root, Saving data in mongoDB
+2023-04-09 01:02:22,664, werkzeug, 127.0.0.1 - - [09/Apr/2023 01:02:22] "POST /review HTTP/1.1" 200 -
+2023-04-09 01:02:22,718, werkzeug, 127.0.0.1 - - [09/Apr/2023 01:02:22] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2023-04-09 01:02:22,722, werkzeug, 127.0.0.1 - - [09/Apr/2023 01:02:22] "GET /static/css/style.css HTTP/1.1" 200 -
+2023-04-09 01:10:14,802, werkzeug,  * Detected change in 'c:\\Users\\Naman\\Test\\youtube_scrapper\\youtube_scrapper\\application.py', reloading
+2023-04-09 01:10:15,101, werkzeug,  * Restarting with stat
+2023-04-09 01:11:16,187, root, Name of the channel = ulnaday
+2023-04-09 01:11:16,680, root, Checking csv file
+2023-04-09 01:11:16,682, root, Saving data in mongoDB
+2023-04-09 01:11:17,463, werkzeug, 127.0.0.1 - - [09/Apr/2023 01:11:17] "POST /review HTTP/1.1" 200 -
+2023-04-09 01:11:17,503, werkzeug, 127.0.0.1 - - [09/Apr/2023 01:11:17] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2023-04-09 01:11:17,601, werkzeug, 127.0.0.1 - - [09/Apr/2023 01:11:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2023-04-09 01:11:24,937, root, Name of the channel = dddd
+2023-04-09 01:11:25,364, root, Checking csv file
+2023-04-09 01:11:25,367, root, Saving data in mongoDB
+2023-04-09 01:11:25,895, werkzeug, 127.0.0.1 - - [09/Apr/2023 01:11:25] "POST /review HTTP/1.1" 200 -
+2023-04-09 01:11:25,941, werkzeug, 127.0.0.1 - - [09/Apr/2023 01:11:25] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2023-04-09 01:11:25,946, werkzeug, 127.0.0.1 - - [09/Apr/2023 01:11:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2023-04-09 01:11:39,996, root, Name of the channel = adfrwfeszw
+2023-04-09 01:11:40,333, werkzeug, 127.0.0.1 - - [09/Apr/2023 01:11:40] "POST /review HTTP/1.1" 200 -
+2023-04-09 01:11:51,037, root, Name of the channel = nahshah
+2023-04-09 01:11:51,327, werkzeug, 127.0.0.1 - - [09/Apr/2023 01:11:51] "POST /review HTTP/1.1" 200 -
+2023-04-09 01:12:39,008, werkzeug, 127.0.0.1 - - [09/Apr/2023 01:12:39] "GET / HTTP/1.1" 200 -
+2023-04-09 01:12:39,537, werkzeug, 127.0.0.1 - - [09/Apr/2023 01:12:39] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2023-04-09 01:12:39,540, werkzeug, 127.0.0.1 - - [09/Apr/2023 01:12:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2023-04-09 01:13:38,094, root, Name of the channel = PW-Foundation
+2023-04-09 01:13:38,591, root, Checking csv file
+2023-04-09 01:13:38,595, root, Saving data in mongoDB
+2023-04-09 01:13:39,257, werkzeug, 127.0.0.1 - - [09/Apr/2023 01:13:39] "POST /review HTTP/1.1" 200 -
+2023-04-09 01:13:39,298, werkzeug, 127.0.0.1 - - [09/Apr/2023 01:13:39] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2023-04-09 01:13:39,307, werkzeug, 127.0.0.1 - - [09/Apr/2023 01:13:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -

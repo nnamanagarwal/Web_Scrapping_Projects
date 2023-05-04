@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+<title>Search Page for YouTube Data</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+{% endblock %}
+
+{% block body %}
+<div class="content">
+    <u><h1 style="text-align: center">Search The Data of Any YouTube Channel </h1></u>
+
+    <div class="form">
+        <form action="/review" method="POST">
+         <tr>
+        <td>
+            <b>Channel Name <input type="text" name="content" id="content"> </td></b>
+          <td>
+            <b>Enter the number of videos</b>
+          <input type="text" name="num" id="num"> 
+          </td>
+          <h1 style="text-align: center"><input type="submit" value="Search"></h1>
+        </form>
+    </div>
+</div>
+{% endblock %}
