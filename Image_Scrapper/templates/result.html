@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Review Page</title>
+  <style>
+    h1{text-align: center;}
+    h1{font-size: 50px}
+    Body 
+{ 
+    background-color:powderblue; 
+} 
+  img { 
+    padding: 15px; 
+    margin: 15px; 
+  }
+  </style>
+</head>
+<body>
+  
+  <div class="table-users">
+   <h1 class="header">Searched Images</h1>
+   <hr>
+      <tr>
+      </tr>
+         {% for review in reviews %}
+      <tr>
+          <img src= {{review['Image']}} width="150" height="150"
+       {% endfor %}
+   </table>
+</div>
+
+
+
+</body>
+
+</html>
